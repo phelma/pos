@@ -1,0 +1,120 @@
+/* Space out content a bit */
+
+body
+{
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* Main marketing message and sign up button */
+
+.jumbotron
+{
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 2;
+
+    margin-bottom: 15px;
+
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+
+    border-bottom: 1px solid #e5e5e5;
+}
+/* words */
+
+.text
+{
+    margin: -3px -11px -6px -15px;
+    padding: 3px 11px 6px 15px;
+
+    border-radius: 10px;
+    border-width: 4px;
+
+}
+
+.w-red
+{
+    background-color: #ff4136;
+}
+
+.w-green
+{
+    background-color: #2ecc40;
+}
+
+.w-quick
+{
+    color: transparent;
+    text-shadow: 0 0 5px #111;
+}
+
+.w-brown
+{
+    color: #ddd;
+    background-color: #963;
+}
+
+.w-jumps
+{
+    margin-top: 5px;
+    padding-top: -5px;
+}
+
+.w-over
+{
+    margin: -2px;
+
+    border-style: solid;
+    border-color: #0074d9;
+}
+
+.w-top
+{
+
+    border-style: solid;
+    border-color: #111111;
+    border-radius: 30px 30px 2px 2px;
+}
+
+.w-under
+{
+    border-bottom: 3px solid #b10dc9;
+    border-radius: 0;
+}
+
+.w-double
+{
+    margin-right: 2px;
+    margin-left: 2px;
+    padding-right: 0;
+    padding-left: 0;
+
+    text-decoration: underline;
+
+    border-bottom: 3px solid #111;
+    border-radius: 0;
+}
+
+.w-round
+{
+    border-style: solid;
+    border-color: #2ecc40;
+    border-radius: 50px;
+}
+.w-lazy
+{
+    font-style: italic;
+}
+.w-oval
+{
+    border-style: solid;
+    border-color: #ff851b;
+    border-radius: 100px / 50px;
+}
+.w-cloud
+{
+  background-image: #666 url(images/Cloud01.svg);
+
+}
